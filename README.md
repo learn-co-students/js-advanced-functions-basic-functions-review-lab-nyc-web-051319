@@ -59,7 +59,7 @@ function razzle() {
 
 Functions can be passed arguments, given default arguments, etc.  Here's a
 brief code synopsis:
-
+ 
 ```js
 function razzle(lawyer="Billy", target="'em") {
   console.log(`${lawyer} razzle-dazzles ${target}!`);
